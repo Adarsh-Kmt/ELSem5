@@ -1,0 +1,72 @@
+skill_name,skill_category
+Auto Mechanic,General Automotive Repair
+Engine Diagnostics,General Automotive Repair
+Brake Repair,General Automotive Repair
+Transmission Repair,General Automotive Repair
+Car Electrical Systems,Electrical Systems
+Automotive Painting,Body and Aesthetic
+Tire Balancing,General Automotive Repair
+Fuel System Maintenance,General Automotive Repair
+Suspension Repair,General Automotive Repair
+Vehicle Inspection,General Automotive Repair
+Air Conditioning Repair,HVAC Systems
+Oil Change and Lubrication,General Automotive Repair
+Car Body Repair,Body and Aesthetic
+Hybrid Vehicle Maintenance,Hybrid & Electric Vehicles
+Diesel Engine Repair,General Automotive Repair
+Vehicle Safety Inspection,General Automotive Repair
+Wheel Alignment,General Automotive Repair
+Exhaust System Repair,General Automotive Repair
+Battery Replacement,Electrical Systems
+Automobile Software Diagnostics,Automotive Software & AI
+Electric Vehicle Battery Management,Hybrid & Electric Vehicles
+EV Charging Infrastructure,Hybrid & Electric Vehicles
+EV Powertrain Diagnostics,Hybrid & Electric Vehicles
+Regenerative Braking System Repair,Hybrid & Electric Vehicles
+High Voltage Safety for EVs,Hybrid & Electric Vehicles
+Electric Motor Troubleshooting,Hybrid & Electric Vehicles
+EV Thermal Management Systems,Hybrid & Electric Vehicles
+Autonomous Vehicle Sensor Calibration,Autonomous & AI Systems
+Computer Vision for Autonomous Vehicles,Autonomous & AI Systems
+Machine Learning for Automotive Applications,Autonomous & AI Systems
+Deep Learning for Object Detection,Autonomous & AI Systems
+Lidar and Radar Data Processing,Autonomous & AI Systems
+Automotive Predictive Maintenance using AI,Autonomous & AI Systems
+Neural Networks for Self-Driving Cars,Autonomous & AI Systems
+Embedded AI Systems in Automotive,Autonomous & AI Systems
+IoT in Smart Vehicles,Automotive Software & AI
+ADAS (Advanced Driver Assistance Systems),Autonomous & AI Systems
+Vehicle Telematics and AI,Automotive Software & AI
+AI-Powered Vehicle Diagnostics,Automotive Software & AI
+Automotive Cybersecurity,Automotive Software & AI
+Automobile Engineering,Automotive Design & Engineering
+CAD,Automotive Design & Engineering
+Manufacturing Processes,Automotive Manufacturing
+Electric Vehicles,Hybrid & Electric Vehicles
+Battery Technology,Hybrid & Electric Vehicles
+MATLAB,Automotive Software & AI
+Mechanical Engineering,Automotive Design & Engineering
+Automotive Design,Automotive Design & Engineering
+SolidWorks,Automotive Design & Engineering
+Embedded Systems,Embedded & ECU Systems
+CAN Protocol,Embedded & ECU Systems
+AUTOSAR,Embedded & ECU Systems
+Vehicle Dynamics,Automotive Design & Engineering
+Suspension Design,Automotive Design & Engineering
+NVH Analysis,Automotive Design & Engineering
+Artificial Intelligence in Automobiles,Automotive Software & AI
+IoT,Automotive Software & AI
+Python,Automotive Software & AI
+ADAS,Autonomous & AI Systems
+LiDAR,Autonomous & AI Systems
+Sensor Fusion,Autonomous & AI Systems
+Machine Learning,Autonomous & AI Systems
+Quality Control,Automotive Manufacturing
+Six Sigma,Automotive Manufacturing
+Lean Manufacturing,Automotive Manufacturing
+Automotive Software Development,Automotive Software & AI
+C++,Automotive Software & AI
+ROS,Automotive Software & AI
+Hybrid Vehicles,Hybrid & Electric Vehicles
+Powertrain Engineering,Hybrid & Electric Vehicles
+Simulink,Automotive Software & AI
